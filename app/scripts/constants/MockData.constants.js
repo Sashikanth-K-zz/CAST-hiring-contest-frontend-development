@@ -16,7 +16,7 @@
     function mockDataConstantFn(){
       var serviceObj = {};
 
-      serviceObj.technologies = ['django','java','javascript'];
+      serviceObj.technologies = ['django','java','javascript','python','php','c++','c','sql','html','ruby','css','go'];
 
       serviceObj.SERVER_URL = "https://api.github.com"
       serviceObj.CONTEXT = '';
